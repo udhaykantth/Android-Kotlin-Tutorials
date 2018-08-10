@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TapMe</string>
+    <string name="hello_sun">Hello Sun</string>
+    <string name="hello_Star">Number of Stars :%s</string>
+    <string name="hello_Bright_Star">Number of stars left: %s</string>
+    <string name = "game_Over_Message">time is up, your stars are : %s</string>>
+</resources>
