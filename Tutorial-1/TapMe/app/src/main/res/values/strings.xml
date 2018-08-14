@@ -3,5 +3,8 @@
     <string name="hello_sun">Hello Sun</string>
     <string name="hello_Star">Number of Stars :%s</string>
     <string name="hello_Bright_Star">Number of stars left: %s</string>
-    <string name = "game_Over_Message">time is up, your stars are : %s</string>>
+    <string name = "game_Over_Message">time is up, your stars are : %s</string>
+    <string name="about_menu" >About</string>>
+    <string name="about_title">Tapp me friend</string>
+    <string name="about_message">Developed by the Android developer</string>
 </resources>
